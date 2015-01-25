@@ -1,0 +1,9 @@
+{
+  "name": "Jukebox",
+  "version": "0.0.1",
+  "description": "Fun with buttons and a buzzer!",
+  "dependencies": {
+    "johnny-five": "^0.8.29",
+    "j5-songs":"^0.0.6"
+  }
+}
