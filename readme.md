@@ -1,6 +1,6 @@
 ## Description ##
 
-A quick proof of concept that provides users a choice of three songs.  Song choice is made by pressing one of three buttons.
+A quick demo.  The result is a Jukebox that allows song choice based on pressing one of three buttons.
 
 ## Requirements ##
 
