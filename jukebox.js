@@ -1,5 +1,5 @@
 var five = require("johnny-five");
-var songs = require('j5-songs');
+var songs = require("j5-songs");
 
 five.Board().on("ready", function() {
 
@@ -10,9 +10,9 @@ five.Board().on("ready", function() {
   var buttonC = new five.Button(4);
 
   // Setup Songs
-  var songA = songs.load('never-gonna-give-you-up');
-  var songB = songs.load('starwars-theme');
-  var songC = songs.load('beethovens-fifth');
+  var songA = songs.load("never-gonna-give-you-up");
+  var songB = songs.load("starwars-theme");
+  var songC = songs.load("beethovens-fifth");
 
   buttonA.on("up", function(value){
     console.log("Playing Rick Astley....");
