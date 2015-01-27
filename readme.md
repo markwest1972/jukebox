@@ -5,7 +5,7 @@ A quick demo.  The result is a Jukebox that allows song choice based on pressing
 ## Requirements ##
 
 1. Node.js / npm installed on your machine.
-2. Arduino Uno Board with buttons and a buzzer connected.  
+2. Arduino Uno Board with buttons and a buzzer connected (see below).  
 
 ![](https://github.com/markwest1972/jukebox/blob/master/Jukebox_Frizting.jpg)
 
